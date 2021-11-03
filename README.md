@@ -1,4 +1,4 @@
-Project for Artificial Intelligence  
+Project for Artificial Intelligence, from https://github.com/karlapalem/UC-Berkeley-AI-Pacman-Project 
 
 # commands
 
